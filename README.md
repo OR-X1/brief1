@@ -1,3 +1,3 @@
 # brief1
 
-<img src="mockup.png" alt="mockup"/>
+<img src="Mokup XD.jpg" alt="mockup"/>
